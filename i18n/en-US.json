@@ -1,0 +1,19 @@
+{
+  "play": "Play",
+  "score": "Score",
+  "level": "Level",
+  "title": "Memory",
+  "tagline": "Flip the cards and find every matching pair.",
+  "pairs": "pairs",
+  "pairsLabel": "Pairs",
+  "moves": "Moves",
+  "time": "Time",
+  "card": "Card",
+  "win": "You win!",
+  "newRecord": "New record!",
+  "again": "Play again",
+  "menu": "Menu",
+  "best": "Best",
+  "soundOn": "Sound on",
+  "soundOff": "Sound off"
+}

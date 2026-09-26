@@ -1,0 +1,19 @@
+{
+  "play": "プレイ",
+  "score": "スコア",
+  "level": "レベル",
+  "title": "メモリー",
+  "tagline": "カードをめくって、すべてのペアを見つけよう。",
+  "pairs": "ペア",
+  "pairsLabel": "ペア",
+  "moves": "手数",
+  "time": "タイム",
+  "card": "カード",
+  "win": "クリア！",
+  "newRecord": "新記録！",
+  "again": "もう一度",
+  "menu": "メニュー",
+  "best": "ベスト",
+  "soundOn": "サウンドON",
+  "soundOff": "サウンドOFF"
+}

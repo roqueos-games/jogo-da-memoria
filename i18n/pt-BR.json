@@ -1,0 +1,19 @@
+{
+  "play": "Jogar",
+  "score": "Pontos",
+  "level": "Nível",
+  "title": "Memória",
+  "tagline": "Vire as cartas e encontre todos os pares.",
+  "pairs": "pares",
+  "pairsLabel": "Pares",
+  "moves": "Jogadas",
+  "time": "Tempo",
+  "card": "Carta",
+  "win": "Você venceu!",
+  "newRecord": "Novo recorde!",
+  "again": "Jogar de novo",
+  "menu": "Menu",
+  "best": "Recorde",
+  "soundOn": "Som ligado",
+  "soundOff": "Som desligado"
+}

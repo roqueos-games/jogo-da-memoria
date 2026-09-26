@@ -1,0 +1,58 @@
+{
+  "id": "memory",
+  "slug": "jogo-da-memoria",
+  "versaoDoContrato": 1,
+  "nome": {
+    "pt-BR": "Memória",
+    "en-US": "Memory",
+    "es-ES": "Memoria",
+    "fr-FR": "Mémoire",
+    "de-DE": "Memory",
+    "ja-JP": "メモリー",
+    "zh-CN": "记忆翻牌",
+    "hi-IN": "याददाश्त",
+    "ru-RU": "Память",
+    "ar-AR": "ذاكرة"
+  },
+  "descricao": {
+    "pt-BR": "Vire as cartas e encontre todos os pares no menor número de jogadas.",
+    "en-US": "Flip the cards and match every pair in as few moves as possible.",
+    "es-ES": "Voltea las cartas y encuentra todas las parejas en el menor número de movimientos.",
+    "fr-FR": "Retourne les cartes et retrouve toutes les paires en un minimum de coups.",
+    "de-DE": "Decke die Karten auf und finde alle Paare mit möglichst wenigen Zügen.",
+    "ja-JP": "カードをめくり、できるだけ少ない手数ですべてのペアを揃えよう。",
+    "zh-CN": "翻开卡片配对，用尽量少的步数找出全部对子，考的是记性。",
+    "hi-IN": "कार्ड पलटें और कम से कम चालों में सभी जोड़े मिलाएँ।",
+    "ru-RU": "Переворачивайте карты и собирайте все пары за минимум ходов.",
+    "ar-AR": "اقلب البطاقات وطابِق كل الأزواج بأقل عدد من الحركات."
+  },
+  "seo": {
+    "pt-BR": {
+      "resumo": "Jogo da memória grátis no navegador: vire as cartas, ache todos os pares no menor número de jogadas.",
+      "sobre": "Jogo da memória clássico, contado por jogadas em vez de por tempo — o que premia lembrar, não correr. Serve para jogar sozinho ou passar o aparelho de mão em mão.",
+      "comoJogar": "Clique ou toque em duas cartas. Par certo fica virado; par errado volta e conta como jogada."
+    },
+    "en-US": {
+      "resumo": "Free memory match game in your browser: flip the cards and find every pair in as few moves as you can.",
+      "sobre": "Classic memory match, scored by moves rather than by time — which rewards remembering, not rushing. Works solo or passing the device around.",
+      "comoJogar": "Click or tap two cards. A match stays face up; a miss flips back and costs a move."
+    }
+  },
+  "etiquetas": ["Memory", "Puzzle", "Classic"],
+  "capa": "public/capa.jpg",
+  "icone": "public/icone.svg",
+  "brilho": "rgba(168, 85, 247, 0.5)",
+  "janela": {
+    "largura": 640,
+    "altura": 720,
+    "minLargura": 360,
+    "minAltura": 500
+  },
+  "aceitaConvite": false,
+  "entraNoPodio": true,
+  "recorde": {
+    "chave": "best",
+    "maiorEMelhor": true
+  },
+  "capacidades": []
+}

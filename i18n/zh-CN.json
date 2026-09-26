@@ -1,0 +1,19 @@
+{
+  "play": "开始",
+  "score": "分数",
+  "level": "关卡",
+  "title": "记忆翻牌",
+  "tagline": "翻开卡片，找出所有配对。",
+  "pairs": "对",
+  "pairsLabel": "配对",
+  "moves": "步数",
+  "time": "时间",
+  "card": "卡片",
+  "win": "你赢了！",
+  "newRecord": "新纪录！",
+  "again": "再玩一次",
+  "menu": "菜单",
+  "best": "最佳",
+  "soundOn": "声音开",
+  "soundOff": "声音关"
+}

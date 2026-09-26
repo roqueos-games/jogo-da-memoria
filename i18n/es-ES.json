@@ -1,0 +1,19 @@
+{
+  "play": "Jugar",
+  "score": "Puntos",
+  "level": "Nivel",
+  "title": "Memoria",
+  "tagline": "Voltea las cartas y encuentra todas las parejas.",
+  "pairs": "parejas",
+  "pairsLabel": "Parejas",
+  "moves": "Movimientos",
+  "time": "Tiempo",
+  "card": "Carta",
+  "win": "¡Has ganado!",
+  "newRecord": "¡Nuevo récord!",
+  "again": "Jugar de nuevo",
+  "menu": "Menú",
+  "best": "Récord",
+  "soundOn": "Sonido activado",
+  "soundOff": "Sonido desactivado"
+}

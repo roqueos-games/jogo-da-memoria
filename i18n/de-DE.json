@@ -1,0 +1,19 @@
+{
+  "play": "Spielen",
+  "score": "Punkte",
+  "level": "Level",
+  "title": "Memory",
+  "tagline": "Decke die Karten auf und finde alle Paare.",
+  "pairs": "Paare",
+  "pairsLabel": "Paare",
+  "moves": "Züge",
+  "time": "Zeit",
+  "card": "Karte",
+  "win": "Gewonnen!",
+  "newRecord": "Neuer Rekord!",
+  "again": "Nochmal spielen",
+  "menu": "Menü",
+  "best": "Rekord",
+  "soundOn": "Ton an",
+  "soundOff": "Ton aus"
+}

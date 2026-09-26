@@ -1,0 +1,19 @@
+{
+  "play": "Jouer",
+  "score": "Points",
+  "level": "Niveau",
+  "title": "Mémoire",
+  "tagline": "Retournez les cartes et retrouvez toutes les paires.",
+  "pairs": "paires",
+  "pairsLabel": "Paires",
+  "moves": "Coups",
+  "time": "Temps",
+  "card": "Carte",
+  "win": "Vous avez gagné !",
+  "newRecord": "Nouveau record !",
+  "again": "Rejouer",
+  "menu": "Menu",
+  "best": "Record",
+  "soundOn": "Son activé",
+  "soundOff": "Son désactivé"
+}
